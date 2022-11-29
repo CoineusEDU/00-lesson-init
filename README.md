@@ -3,7 +3,7 @@ Initial Lesson, Setup your environment.
 
 
 ## Install Node.js
-Visit https://nodejs.org/en/ and install the latest version on Node.js, which should also install NPM (Node Package Manager).
+Visit https://nodejs.org/en/ and install the latest version on Node.js, which should also install Node Package Manager (NPM).
 
 ## Create React App
 Visit https://reactjs.org/docs/create-a-new-react-app.html for a tutorial on how to get started with create-react-app.
