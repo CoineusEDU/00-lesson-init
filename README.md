@@ -12,7 +12,7 @@ Work through the ["Create React App"](https://reactjs.org/docs/create-a-new-reac
 
 
 ## Integrated Development Environment (IDE)
-You can use a simple text editor like notepad or textedit to modify your code. However an IDE has advanced features to simplify the development process and provides tools to speed up the process.
+You can use a simple text editor like notepad or textedit to modify your code. However an IDE has advanced features to simplify development and provides tools to speed up the process.
 
 I personally use Webstorm from Jetbrains, https://www.jetbrains.com/webstorm/, it costs $69 for the first year.
 
