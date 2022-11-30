@@ -20,3 +20,8 @@ Some free options include:
 
 - Sublime Text: https://www.sublimetext.com/
 - Atom: https://ide.atom.io/
+
+## Git using GitHub Desktop
+All lessons will be instructed over GitHub, a git as a service platform owned by Microsoft. You can use the command line tools of git to perform all the needed actions, as well as some built in tools of some IDEs, however we will use GitHub Desktop to demo the steps required. 
+
+Download GitHub Desktop: https://desktop.github.com/
